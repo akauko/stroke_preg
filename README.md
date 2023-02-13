@@ -15,7 +15,8 @@ ht_prs_preg
 ├── scripts
   ├── functions.R               # Minor R functions for the main analysis
   ├── select columns.pl         # Perl script to select columns from tsv files by column name
+  ├── fg_pheno_cols.txt         # Variables that are extracted from the phenotype file. 
   ├── icd_codes_preg.csv        # ICD codes for adverse pregnancy event, used for medical birth registry
-  ├── fg_pheno_cols.txt         # Columns that are extracted from the phenotype file. 
+
 
 ```
