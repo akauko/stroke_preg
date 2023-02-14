@@ -13,7 +13,7 @@ ht_prs_preg
 ├── README.md                   # Overview
 ├── stroke_preg3.rmd            # R markdown for the analysis
 ├── scripts
-  ├── functions.R               # Minor R functions for the main analysis
+  ├── functions.R               # Minor R functions for the analysis
   ├── select columns.pl         # Perl script to select columns from a tsv file by column names
   ├── fg_pheno_cols.txt         # List of variables that are extracted from the FinnGen phenotype file
   ├── icd_codes_preg.csv        # ICD codes for adverse pregnancy events, used for the medical birth registry
