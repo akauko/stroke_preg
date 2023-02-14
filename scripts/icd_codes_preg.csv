@@ -1,0 +1,8 @@
+NAME,LONGNAME,ICD_10,ICD_9,ICD_8,EXCLUDE,NA_limit
+GESTAT_HYPERT,Gestational hypertension,O13,^6423, ^63701,-,
+PRE_OR_ECLAMPSIA,Preeclampsia and eclampsia,O11|O14|O15,^642[4-7],^6370[349]|^63710|^63799|^66120,-,
+EXIST_HYPERT_COMPLIC,Pre-existing hypertension complicating pregnancy,O10,^6420,-,-,1987
+PRETERM,Preterm birth,O60,^644,^63497,^6440A,
+POOR_FETGRO,Small for gestational age,O365,^6565A|^6565B,-,-,1987
+STILL_BIRTH,Still birth,P95|Z371|Z373|Z374|Z376|Z377,-,-,-,1996
+PLAC_PREMAT_SEPAR,Placental abruption,O45,^6412,-,-,1987
