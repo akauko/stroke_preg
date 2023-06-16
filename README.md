@@ -1,5 +1,6 @@
 # stroke_preg
-Code for the project: Risk of Midlife Stroke after Adverse Pregnancy Outcomes
+Code for the project: 
+[Miller, E.C., et al., Risk of Midlife Stroke After Adverse Pregnancy Outcomes: The FinnGen Study, Stroke (2023), Online ahead of print.](https://doi.org/10.1161/strokeaha.123.043052)
 
 We studied if adverse pregnancy outcomes are associated with younger age at first stroke, with a larger effect in those with recurrent adverse events.
 
